@@ -1,0 +1,40 @@
+{
+  "palette": {
+    "wallpaper": "/home/aboabdullah/Wallpapers/3MB.jpg",
+    "wallpaperUrl": null,
+    "wallpaperSource": "local",
+    "colors": [
+      "#10265e",
+      "#de4972",
+      "#71b6c6",
+      "#F3966A",
+      "#8282d4",
+      "#de87db",
+      "#A7C8E5",
+      "#FAF4FB",
+      "#606fa7",
+      "#f092ac",
+      "#b0d9e3",
+      "#fdd1bc",
+      "#c4c4ed",
+      "#f4cdf2",
+      "#edf4fb",
+      "#ffffff"
+    ],
+    "lightMode": false,
+    "appOverrides": {},
+    "additionalImages": []
+  },
+  "timestamp": 1764784869684,
+  "settings": {
+    "includeNeovim": true,
+    "includeVencord": true,
+    "includeZed": true,
+    "includeVscode": false,
+    "includeGtk": true,
+    "lightMode": false,
+    "selectedNeovimConfig": null,
+    "enableAppOverrides": false
+  },
+  "name": "Beep boopp"
+}

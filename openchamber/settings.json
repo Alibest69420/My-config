@@ -1,0 +1,75 @@
+{
+  "lightThemeId": "flexoki-light",
+  "darkThemeId": "flexoki-dark",
+  "securityScopedBookmarks": [],
+  "notifyOnSubtasks": true,
+  "notifyOnCompletion": true,
+  "notifyOnError": true,
+  "notifyOnQuestion": true,
+  "notificationTemplates": {
+    "completion": {
+      "title": "{agent_name} is ready",
+      "message": "{model_name} completed the task"
+    },
+    "error": {
+      "title": "Tool error",
+      "message": "{last_message}"
+    },
+    "question": {
+      "title": "Input needed",
+      "message": "{last_message}"
+    },
+    "subtask": {
+      "title": "{agent_name} is ready",
+      "message": "{model_name} completed the task"
+    }
+  },
+  "lastDirectory": "/home/aboabdullah",
+  "homeDirectory": "/home/aboabdullah",
+  "projects": [
+    {
+      "id": "path_L2hvbWUvYWJvYWJkdWxsYWg",
+      "path": "/home/aboabdullah",
+      "addedAt": 1783333181512,
+      "lastOpenedAt": 1783333181512
+    }
+  ],
+  "activeProjectId": "path_L2hvbWUvYWJvYWJkdWxsYWg",
+  "themeId": "flexoki-dark",
+  "themeVariant": "dark",
+  "useSystemTheme": true,
+  "splashBgLight": "#fffdf4",
+  "splashFgLight": "#100F0F",
+  "splashBgDark": "#171515",
+  "splashFgDark": "#CECDC3",
+  "favoriteModels": [],
+  "recentModels": [
+    {
+      "providerID": "opencode",
+      "modelID": "deepseek-v4-flash-free"
+    },
+    {
+      "providerID": "opencode",
+      "modelID": "big-pickle"
+    },
+    {
+      "providerID": "opencode",
+      "modelID": "nemotron-3-ultra-free"
+    }
+  ],
+  "hiddenModels": [],
+  "collapsedModelProviders": [],
+  "recentAgents": [
+    "plan"
+  ],
+  "recentEfforts": {
+    "opencode/deepseek-v4-flash-free": [
+      "default"
+    ],
+    "opencode/nemotron-3-ultra-free": [
+      "default"
+    ]
+  },
+  "usageDisplayMode": "usage",
+  "openCodeUpdateToastDismissedVersion": "1.17.18"
+}

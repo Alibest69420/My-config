@@ -1,0 +1,22 @@
+{
+  "autoUpdate": true,
+  "useTorrentless": false,
+  "torrentSource": "torrentio",
+  "useDebrid": true,
+  "debridProvider": "realdebrid",
+  "rdToken": "EHG6743CTC5MRAURKY2R3LV4WZ7CKOWBMPB6E3XUQ3E6SGFYBN6Q",
+  "rdRefresh": null,
+  "rdClientId": null,
+  "rdCredId": null,
+  "rdCredSecret": null,
+  "adApiKey": null,
+  "tbApiKey": null,
+  "pmApiKey": null,
+  "useNodeMPV": false,
+  "mpvPath": null,
+  "preferredMode": "advanced",
+  "discordActivity": true,
+  "showSponsor": false,
+  "torrentEngine": "stremio",
+  "torrentEngineInstances": 1
+}

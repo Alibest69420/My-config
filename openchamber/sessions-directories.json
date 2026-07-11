@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "foldersMap": {
+    "__archived__:/home/aboabdullah": [
+      {
+        "id": "3287e30c-adfd-4377-84df-8f2ddee9cb04",
+        "name": "project root",
+        "sessionIds": [
+          "ses_0c1588078ffe0IRvY6fTOBOgxc",
+          "ses_0cd515253ffeBDgIHrw4ZwNzYB",
+          "ses_0cd657b25ffe1rui26EWYyNIxB",
+          "ses_0e5979711ffecotWWFARyroGoJ",
+          "ses_156e6d833ffe8oT65TH7pGwURP",
+          "ses_16c3940c4ffeV8RdOw2d9Uy6qi",
+          "ses_16c3ce1a6ffeE48kmhQSwwPeXO",
+          "ses_1713f5b7cffesoR1zHkHreUeB0",
+          "ses_1719441f4ffe6B5V5wV9z9fuAb",
+          "ses_17192ecf6ffeaYr9Hfptme9mcv",
+          "ses_171943056ffe0TpH5FhSzpXRKO",
+          "ses_1729a5182ffe3uQkzhtKG9bruo",
+          "ses_1738a6631ffe7VxSxYFTkqEPP6",
+          "ses_1cfbb23b1ffeitIQGie5PnkkAg",
+          "ses_1d0b4eb80ffeAeRbgBcb4UZQjG",
+          "ses_1f5e7c608ffe79qmdq5s6dL4qc",
+          "ses_1fb5968d8ffeF7GoDROXFC33ag",
+          "ses_2106a6813ffezokN0Xu3hRGgf4",
+          "ses_2109243c6ffezscvquIbCNb7un",
+          "ses_224a56853ffe0ML5XlHJa1Kbb9",
+          "ses_273233474ffe9r5yrteZo864rG",
+          "ses_282398ae7ffenv84qxgj2O2P1X",
+          "ses_2829fb248ffeS2Zicmy4yWuQ9j",
+          "ses_282f0efd1ffekrYTT3p9c3lSNZ",
+          "ses_282b09327ffeTKN7bxeIEyo3Tj",
+          "ses_2dca2c328ffe48AJ9xFOOSZm0y",
+          "ses_2e361df3cffec1YVglUqlg4g7q",
+          "ses_2ff0d2921ffeWuWaYHK6fjpMnC",
+          "ses_33e9e98b8ffeNVv3t5b8uWqVwA"
+        ],
+        "createdAt": 1783790459043,
+        "parentId": null
+      },
+      {
+        "id": "4b73cf4c-0780-4781-b58d-b3d92dfeaa24",
+        "name": ".config",
+        "sessionIds": [
+          "ses_0ae3f6247ffeA0Be4ixW2eGru2",
+          "ses_0ae4a4c16ffegRMmVrBBk13amP",
+          "ses_0ae544e70ffe6dJJtKLYqYBkJG"
+        ],
+        "createdAt": 1783790459043,
+        "parentId": null
+      }
+    ]
+  },
+  "collapsedFolderIds": [],
+  "updatedAt": 1783790550629
+}

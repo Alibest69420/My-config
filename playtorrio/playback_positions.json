@@ -1,0 +1,20 @@
+{
+  "movie_129": {
+    "position": 0,
+    "duration": 1,
+    "updatedAt": "2026-03-14T21:51:26.199Z",
+    "title": "Spirited Away",
+    "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "tmdb_id": "129",
+    "media_type": "movie",
+    "sourceInfo": {
+      "provider": "embedded",
+      "magnet": null,
+      "url": "https://cinemaos.tech/player/129",
+      "torrentTitle": null,
+      "fileIndex": null,
+      "streamUrl": null,
+      "embeddedServer": "CinemaOS"
+    }
+  }
+}

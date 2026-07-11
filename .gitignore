@@ -52,5 +52,14 @@ omarchy/themes/collection/.git/
 *.mp4
 *.webm
 
+# Media players / large data
+cliamp/
+
+# Helium browser
+net.imput.helium/
+
+# Stremio cache
+stremio-enhanced/
+
 # System
 systemd/

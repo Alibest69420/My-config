@@ -1,0 +1,46 @@
+{
+  "name": "Template",
+  "palette": {
+    "colors": [
+      "#14000a",
+      "#ff5d4c",
+      "#c3e700",
+      "#bbba00",
+      "#9d83ff",
+      "#e26bde",
+      "#00ced6",
+      "#3a1aff",
+      "#5f6167",
+      "#ff7d65",
+      "#74ee00",
+      "#d8db00",
+      "#c5a1ff",
+      "#ff86ff",
+      "#17edf7",
+      "#aeffe5"
+    ],
+    "wallpaper": "/home/aboabdullah/.config/omarchy/themes/collection/backgrounds/medusa.jpg",
+    "extendedColors": {
+      "accent": "#9d83ff",
+      "cursor": "#c7efe3",
+      "selection_background": "#c7efe3",
+      "selection_foreground": "#000003"
+    }
+  },
+  "adjustments": {
+    "blackPoint": 0,
+    "brightness": 0,
+    "contrast": 0,
+    "gamma": 1,
+    "highlights": 0,
+    "hueShift": 0,
+    "saturation": 0,
+    "shadows": 0,
+    "temperature": 0,
+    "tint": 0,
+    "vibrance": 0,
+    "whitePoint": 0
+  },
+  "settings": {},
+  "timestamp": 1777607643302
+}

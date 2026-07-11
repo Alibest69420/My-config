@@ -1,0 +1,4 @@
+{
+  "jackettUrl": "http://127.0.0.1:9117/api/v2.0/indexers/all/results/torznab",
+  "cacheLocation": "/tmp"
+}
