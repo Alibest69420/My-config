@@ -1,0 +1,56 @@
+# Browser caches
+chromium/
+BraveSoftware/
+google-chrome*/
+vivaldi*/
+microsoft-edge-dev/
+brave-flags.conf*
+
+# Discord
+discord/
+
+# Game data
+Cemu/
+UNDERTALE/
+WiiUDownloader/
+citron*/
+
+# Large app dirs
+lunarclient/
+Pear Desktop/
+YouTube Music/
+1Password/
+Proton/
+Proton Mail/
+ProtonPlus/
+Signal/
+Equicord/
+heroic/
+
+# Cache dirs
+dconf/
+ibus/
+pulse/
+wireplumber/
+uwsm/
+
+# Logs
+*.log
+
+# Code caches
+Code Cache/
+
+# Nested repos (omarchy themes have their own .git)
+omarchy/themes/sakura/.git/
+omarchy/themes/collection/.git/
+
+# Media
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.webm
+
+# System
+systemd/
