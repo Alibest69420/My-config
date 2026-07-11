@@ -1,0 +1,14 @@
+{
+  "macOSScreenReaderSpeechRateDescription": "macOS screen reader speech rate to be used, in words per minute.",
+  "macOSScreenReaderSpeechRate": null,
+  "steadyBearsExperimentalChartDescription": "false = Release chart, true = Experimental alpha chart",
+  "steadyBearsExperimentalChart": false,
+  "buildTypeDescription": "0 = Detect, 1 = Steam, 2 = Itch",
+  "buildType": 0,
+  "inputDisplayDescription": "0 = Detect, 1 = Keyboard, 2 = Controller, 3 = Mouse (and Keyboard)",
+  "inputDisplay": 0,
+  "keyboardDisplayDescription": "0 = Detect, 1 = Windows, 2 = MacOS, 3 = Linux",
+  "keyboardDisplay": 0,
+  "controllerDisplayDescription": "0 = Detect, 1 = XBox, 2 = Nintendo, 3 = PlayStation, 4 = Steam",
+  "controllerDisplay": 0
+}

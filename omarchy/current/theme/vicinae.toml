@@ -1,0 +1,32 @@
+[meta]
+version = 1
+name = "Omarchy"
+description = "Follow your Omarchy system theme."
+variant = "dark"
+inherits = "vicinae-dark"
+icon = "/home/aboabdullah/.local/share/omarchy/icon.png"
+
+[colors.core]
+background = "#"
+foreground = "#"
+secondary_background = "#"
+border = "#"
+accent = "#"
+
+[colors.list.item.hover]
+background = "#"
+foreground = "#"
+
+[colors.list.item.selection]
+background = "#"
+foreground = "#"
+
+[colors.accents]
+blue = "#"
+green = "#"
+magenta = "#"
+orange = "#"
+purple = "#"
+red = "#"
+yellow = "#"
+cyan = "#"

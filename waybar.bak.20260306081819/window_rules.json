@@ -1,0 +1,31 @@
+{
+  "classes": {
+    "kitty": "Terminal",
+    "firefox": "Firefox",
+    "chromium": "Chromium",
+    "google-chrome": "Chrome",
+    "code-oss": "VS Code",
+    "code": "VS Code",
+    "thunar": "File Manager",
+    "spotify": "Spotify",
+    "discord": "Discord",
+    "dev.zed.Zed": "ZED",
+    "org.gnome.Nautilus": "Nautilus",
+    "nautilus": "Nautilus",
+    "Nautilus": "Nautilus",
+    "com.github.th_ch.youtube_music": "Youtube Music"
+  },
+  "titles": {
+    "^OC \\| (.*)": "Opencode | \\1",
+    "(.*) \u2014 Mozilla Firefox": "Firefox | \\1",
+    "(.*) - Visual Studio Code": "VS Code | \\1",
+    "(.*) - Google Chrome": "Chrome | \\1",
+    "^Nautilus$": "Nautilus",
+    "^Home$": "Nautilus | Home",
+    "^Downloads$": "Nautilus | Downloads",
+    "^Documents$": "Nautilus | Documents",
+    "^Pictures$": "Nautilus | Pictures",
+    "^Videos$": "Nautilus | Videos",
+    "^Music$": "Nautilus | Music"
+  }
+}

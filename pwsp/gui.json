@@ -1,0 +1,11 @@
+{
+  "scale_factor": 1.0,
+  "left_panel_width": 280.0,
+  "save_volume": false,
+  "save_input": false,
+  "save_scale_factor": false,
+  "pause_on_exit": false,
+  "dirs": [
+    "/home/aboabdullah/Music/sounds"
+  ]
+}
