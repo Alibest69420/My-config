@@ -1,10 +1,16 @@
 # Browser caches
 chromium/
+chromium-headless/
 BraveSoftware/
 google-chrome*/
 vivaldi*/
+microsoft-edge/
 microsoft-edge-dev/
 brave-flags.conf*
+brave-origin-beta-flags.conf
+chrome-flags.conf
+chromium-flags.conf
+electron-builder.json
 
 # Discord
 discord/
@@ -22,23 +28,87 @@ YouTube Music/
 1Password/
 Proton/
 Proton Mail/
+Proton Pass/
 ProtonPlus/
 Signal/
 Equicord/
 heroic/
+NeXium/
+Omacom/
+TMOG/
+nuvio/
+nuvio-linux/
+photocraft/
+voxtype/
+tensaku/
+cove/
+mprisence/
+pnpm/
+go/
+nvtop/
+libvirt/
+yt-dlp/
+puddletag/
+easytag/
+brasero/
+app.harbor/
+playtorrio/
+qBittorrent/
+stremio*/
+mpv/watch_later/
+obs-studio/logs/
+obs-studio/profiler_data/
 
 # Cache dirs
 dconf/
 ibus/
+fcitx/dbus/
+fcitx5/profile_*
 pulse/
 wireplumber/
 uwsm/
+Cache/
+CachedData/
+GPUCache/
+DawnCache/
+Code Cache/
+Service Worker/
+Session Storage/
+__pycache__/
+node_modules/
 
 # Logs
 *.log
+*.csv.gz
 
-# Code caches
-Code Cache/
+# Secrets / machine-specific (tokens, keys - private repo still leaks in history)
+gh/hosts.yml
+opencode/cli.json
+opencode/auth.json
+opencode/service.json
+obs-studio/plugin_config/obs-websocket/config.json
+kopuz/*.db*
+kopuz/*.shm
+kopuz/*.wal
+kopuz/*.lock
+kopuz/*.bak
+kopuz/*.json.bak
+*.shm
+*.wal
+*.lock
+
+# Backup / temp noise
+*.bak
+*.bak.*
+*.backup.*
+*.bak-*
+*backup*.bak
+*.omarchy-upgrade-to-quattro.*.bak
+*.omarchy-upgrade-to-quattro.*
+backup-*/
+*.pyc
+*~
+.DS_Store
 
 # Nested repos (omarchy themes have their own .git)
 omarchy/themes/sakura/.git/
